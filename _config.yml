@@ -6,11 +6,11 @@
 # swc: Software Carpentry
 # dc: Data Carpentry
 # lc: Library Carpentry
-# cp: Carpentries (to use for instructor traning for instance)
+# cp: Carpentries (to use for instructor training for instance)
 carpentry: "cp"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "The Carpentries Instructor Training"
 
 
 #------------------------------------------------------------
@@ -52,7 +52,7 @@ instructor_pre_survey: "https://www.surveymonkey.com/r/instructor_training_pre_s
 instructor_post_survey: "https://www.surveymonkey.com/r/instructor_training_post_survey?workshop_id="
 
 # Start time in minutes (0 to be clock-independent, 540 to show a start at 09:00 am).
-start_time: 0
+start_time: 540
 
 # Specify that things in the episodes collection should be output.
 collections:
